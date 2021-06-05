@@ -1,0 +1,4 @@
+ A simple breakout board for the RF-Star RF-BM-2652P2 module
+ which is based on the TI CC2652P, a 20dBm capable 2.4GHz SoC.
+ 
+ For info on the CC2652P, see https://www.ti.com/product/CC2652P
